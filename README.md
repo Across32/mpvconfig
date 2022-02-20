@@ -4,5 +4,12 @@ This is a small program for configure mpv player with GUI for Linux 64-bit syste
 Does not include all setting options!
 Just download the zip file, extract and use with double click on 'mpv player configuration settings' file!
 
+Supported languages
+
+![](https://i.imgur.com/Y52XfmB.png)Hungarian
+
+![](https://i.imgur.com/tATD5gh.png)English
+
+
 
 ![](https://i.imgur.com/SymggVb.png)
